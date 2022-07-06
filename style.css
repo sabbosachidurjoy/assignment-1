@@ -1,0 +1,86 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+   
+}
+.top-banner{
+    background-image: url(images/donation7.jpg);
+    width: 100%;
+    height: 700px;
+}
+.half-width{
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    padding: 250px 0px;
+   
+    }
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(tomato,orange);
+    padding: 10px 5px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+
+}
+.donate-today{
+    text-align: center;
+    padding: 30px;
+   
+}
+
+
+.button {
+    text-align: center;
+}
+
+.donate{
+    font-size: 25px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 50px;
+}
+.our-donate{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.card1{
+    width: 300px;
+    height: 250px;
+    border: 1px solid grey;
+    text-align: center;
+    padding: 20px;
+    float: left;
+    margin-right: 30px;
+
+}
+.card2 {
+    width: 300px;
+    height: 250px;
+    border: 1px solid grey;
+    text-align: center;
+    padding: 20px;
+    float: left;
+    overflow: hidden;
+    margin-right: 30px;
+  
+
+}
+.card3 {
+    width: 300px;
+    height: 250px;
+    border: 1px solid grey;
+    text-align: center;
+    padding: 20px;
+    float: left;
+
+}
+.gym-icon{
+    width: 40px;
+}
+.get-updates{
+    text-align: center;
+}
